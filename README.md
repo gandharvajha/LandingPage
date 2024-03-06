@@ -1,9 +1,12 @@
 #Landing Page with Simple Animation
 
 
+
 This repository contains a landing page with a simple animation implemented using HTML, CSS, and JavaScript.
 
 ##Description
+
+
 The landing page features a minimalist design with a background image and a centered content area. A subtle animation is applied to the content area to create visual interest and engage users.
 
 Demo
