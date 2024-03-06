@@ -1,4 +1,4 @@
-Landing Page with Simple Animation
+#Landing Page with Simple Animation
 
 This repository contains a landing page with a simple animation implemented using HTML, CSS, and JavaScript.
 
