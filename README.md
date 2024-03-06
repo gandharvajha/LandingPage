@@ -1,24 +1,29 @@
-#Landing Page with Simple Animation
+# Landing Page with Simple Animation
 
-
-
+## Description
 This repository contains a landing page with a simple animation implemented using HTML, CSS, and JavaScript.
-
-##Description
-
-
 The landing page features a minimalist design with a background image and a centered content area. A subtle animation is applied to the content area to create visual interest and engage users.
 
-Demo
+## View
 You can view a live demo of the landing page here https://landing-page-w93h.vercel.app/.
 
-Screenshots
 
-Installation
-To run the landing page locally, follow these steps:
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
 
-Clone this repository to your local machine.
-Navigate to the repository directory.
-Open the index.html file in your web browser.
-Usage
-Feel free to customize the landing page to suit your needs. You can modify the content, styles, and animations according to your preferences.
+## Screenshots
+
+### Desktop View
+<img width="960" alt="image" src="https://github.com/gandharvajha/random-color/assets/107179374/3a2e5be1-cb88-4ec4-9e14-69bb2a19f55b">
+
+### Tablet View
+<img width="572" alt="image" src="https://github.com/gandharvajha/random-color/assets/107179374/5f12adee-3f6d-4d81-a6b9-de1f5a3d4348">
+
+### Mobile View
+<img width="281" alt="image" src="https://github.com/gandharvajha/random-color/assets/107179374/69c64905-260d-45bb-b8db-c47444771e26">
+
+
+
+
