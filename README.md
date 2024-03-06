@@ -19,10 +19,10 @@ You can view a live demo of the landing page here https://landing-page-w93h.verc
 <img width="960" alt="image" src="image/screencapture.png">
 
 ### Tablet View
-<img width="572" alt="image" src="https://github.com/gandharvajha/random-color/assets/107179374/5f12adee-3f6d-4d81-a6b9-de1f5a3d4348">
+<img width="572" alt="image" src="image/tablet.png">
 
 ### Mobile View
-<img width="281" alt="image" src="https://github.com/gandharvajha/random-color/assets/107179374/69c64905-260d-45bb-b8db-c47444771e26">
+<img width="281" alt="image" src="image/mobile.png">
 
 
 
